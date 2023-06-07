@@ -1,7 +1,6 @@
 ﻿using ForumApp.Data;
 using ForumApp.Data.Models;
 using ForumApp.Models;
-using ForumApp.Models.Post;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ForumApp.Controllers
